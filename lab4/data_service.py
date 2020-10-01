@@ -7,8 +7,6 @@ name = ["1 англійський фунт стерлінг", "10 бельгій
 class dovidnik:
    code:int
    name:str
-   year:int
-
 
 data_array = [dovidnik(103, "1 англійський фунт стерлінг"), dovidnik(104,"10 бельгійських франків"), dovidnik(105,"1 німецька марка"), dovidnik(106, "1 голандський гульден"), dovidnik(109,"1 канадський долар"), dovidnik(111,"1 доллар США")]
 
