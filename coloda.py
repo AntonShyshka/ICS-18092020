@@ -36,7 +36,7 @@ class Deck:
  
 rank = ['Туз', 'Король','Дама','Валет','10','9','8','7','6',]
 suit = ["червей","бубей","крестей","пик" ]
-cards = [Card(s,r) for s in suit for r in rank] # возможно это в классе Deck нужно выполнить
+cards = [Card(s,r) for s in suit for r in rank]
  
  
 deck = Deck(cards)
